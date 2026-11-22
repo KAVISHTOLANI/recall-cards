@@ -2,6 +2,8 @@
 
 Flashcards with a focused review mode and a simple, documented spaced-review schedule (Leitner boxes). Create decks, add or import cards with tags, review only what's due, and track accuracy and progress.
 
+**Live demo:** [https://kavishtolani.github.io/recall-cards/](https://kavishtolani.github.io/recall-cards/) — runs entirely in your browser; demo data is fictional and labelled.
+
 ![Focused review](docs/review.png)
 
 | Progress | Mobile |
@@ -45,3 +47,7 @@ New cards start in box 1. Right → up one box (max 5); wrong → back to box 1.
 ## Future improvements
 
 - Optional adaptive scheduling, image cards, and deck export/import as CSV or Anki-compatible text.
+
+## Licence
+
+MIT — see [LICENSE](LICENSE).
