@@ -1,5 +1,17 @@
 # Recall Cards
 
+<!-- screenshots:start -->
+<p align="center">
+  <img src="docs/screenshots/desktop.png" alt="Recall Cards on a Mac (1440×900)" width="100%">
+</p>
+<p align="center">
+  <img src="docs/screenshots/tablet.png" alt="Recall Cards on a tablet" height="460">
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/phone.png" alt="Recall Cards on a phone" height="460">
+</p>
+<p align="center"><sub>Mac (1440×900) · Tablet (820×1180) · Phone (390×844)</sub></p>
+<!-- screenshots:end -->
+
 Flashcards with a focused review mode and a simple, documented spaced-review schedule (Leitner boxes). Create decks, add or import cards with tags, review only what's due, and track accuracy and progress.
 
 **Live demo:** [https://kavishtolani.github.io/recall-cards/](https://kavishtolani.github.io/recall-cards/) — runs entirely in your browser; demo data is fictional and labelled.
